@@ -1,0 +1,26 @@
+.homeTitle {
+  background-color: #ceab93;
+  align-items: center;
+  display: flex;
+}
+
+.homeTitle2 {
+  width: 100%;
+}
+
+.homeTitle3 {
+  float: left;
+  margin-left: 20px;
+}
+
+.homeLogout {
+  display: flex;
+  float:right;
+  margin: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  .homeLogout {
+    float:none;
+  }
+}

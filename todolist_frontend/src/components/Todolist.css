@@ -1,0 +1,26 @@
+.search{
+  margin: 5px;
+  width: 80%;
+  border-color: #CEAB93;
+  border-radius: 10px;
+}
+
+.textarea{
+  border: #A19882;
+  width: 100%;
+}
+
+.card{
+  /* display: flex; */
+  float: left;
+  background-color: #A19882;
+  margin: 10px;
+  padding: 10px;
+  width: 45%;
+}
+
+@media only screen and (max-width: 500px) {
+  .card {
+    width: 90%;
+  }
+}

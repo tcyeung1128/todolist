@@ -1,0 +1,11 @@
+.addbutton{
+  background-color: #a19882;
+  color: #FEF7DC;
+  border-radius: 8px;
+  margin: 5px;
+}
+
+.addlistInput{
+  border-color: #CEAB93;
+  border-radius: 10px;
+}

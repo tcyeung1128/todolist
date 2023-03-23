@@ -1,0 +1,11 @@
+.logoutButton{
+  background-color: #a19882;
+  color: #FEF7DC;
+  border-radius: 8px;
+  margin: 5px;
+}
+@media only screen and (max-width: 500px) {
+  .logoutButton {
+  margin: 0px;
+  }
+}

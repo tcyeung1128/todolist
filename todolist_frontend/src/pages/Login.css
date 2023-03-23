@@ -1,0 +1,27 @@
+.loginButton {
+  background-color: #a19882;
+  color: white;
+  border-radius: 8px;
+  margin: 5px;
+  font-size: 25px;
+}
+
+.loginAccountTitle {
+  background-color: #a19882;
+  color: white;
+  border-radius: 8px;
+  margin: 5px;
+  font-size: 25px;
+}
+
+.loginInput {
+  margin: 20px;
+  width: 260px;
+  font-size: 20px;
+}
+
+.loginTextarea{
+  margin:20px;
+  width:300px;
+  font-size: 20px;
+}
